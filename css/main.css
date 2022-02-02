@@ -1,0 +1,26 @@
+body{
+    background-color: #888463;
+}
+.container{
+    background-color: #636788;
+}
+.nav-item:hover{
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+.navbar-brand{
+    color: white;
+}
+.logo{
+    font-size: 50px;
+    text-align: center;
+}
+.sublogo{
+    font-size: 15px;
+    text-align: center;
+    padding-top: 1px;
+}
+.parrafoTitulo{
+    text-align: center;
+    padding: 25px 2px;
+}
