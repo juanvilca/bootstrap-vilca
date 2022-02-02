@@ -1,11 +1,11 @@
 body{
-    background-color: #888463;
+    background-color: #969378;
 }
 .container{
     background-color: #636788;
 }
 .nav-item:hover{
-    background-color: whitesmoke;
+    background-color: rgb(245, 245, 245);
     border-radius: 5px;
 }
 .navbar-brand{
@@ -24,3 +24,4 @@ body{
     text-align: center;
     padding: 25px 2px;
 }
+
