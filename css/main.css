@@ -1,9 +1,10 @@
+
 body{
     background-color: #969378;
 }
-.container{
+/*.container{
     background-color: #636788;
-}
+}*/
 .nav-item:hover{
     background-color: rgb(245, 245, 245);
     border-radius: 5px;
@@ -20,8 +21,33 @@ body{
     text-align: center;
     padding-top: 1px;
 }
+.contenedorLogoSub{
+    padding-bottom: 50px;
+}
 .parrafoTitulo{
     text-align: center;
     padding: 25px 2px;
+}
+.parrafoNosotros{
+    align-items: center;
+    padding: 25px 2px;
+}
+.contenedorNosotros{
+    padding: 30px;
+}
+.imgNosotros img{
+    width: 500px;
+    height: 640px;
+}
+
+.form-group{
+    padding: 6px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.logoFooter{
+    text-align: center;
+    font-size: 16px;
 }
 
